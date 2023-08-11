@@ -1,4 +1,4 @@
-import styling from "./styling.css";
+import "./styling.css";
 
 function Banner() {
     return (
